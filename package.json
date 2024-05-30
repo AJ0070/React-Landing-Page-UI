@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://AJ0070.github.io/React-Landing-Page-UI",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
