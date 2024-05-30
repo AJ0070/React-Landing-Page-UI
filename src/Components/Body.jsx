@@ -25,7 +25,7 @@ const Body = () => {
           className="absolute h-64 md:h-72 lg:h-[400px]"
         />
       </div>
-      <div className="lg:flex-1 lg:order-1">
+      <div className="lg:flex-1 lg:order-1 lg:gap-y-4 flex flex-col gap-y-4">
         <h1 className="text-5xl font-bold font-playfair leading-tight">
           Host your website within 5 minutes.
         </h1>
